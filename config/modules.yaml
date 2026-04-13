@@ -1,0 +1,8 @@
+# 모듈 활성화/비활성화 설정
+modules:
+  chat: true          # Phase 1 - 대화 기능
+  rag: false          # Phase 3 - 문서 검색
+  stock: false        # Phase 4 - 주식 분석
+  voice: false        # Phase 5 - 음성 인식
+  pc_control: false   # Phase 5 - PC 제어
+  monitor: false      # Phase 5 - 실시간 모니터링
